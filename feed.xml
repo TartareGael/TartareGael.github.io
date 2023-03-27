@@ -3,7 +3,7 @@
     <title>Tartare Gaël</title>
     <link href="https://tartaregael.github.io/feed.xml" rel="self" />
     <link href="https://tartaregael.github.io" />
-    <updated>2023-03-27T23:50:48+02:00</updated>
+    <updated>2023-03-27T23:54:37+02:00</updated>
     <author>
         <name>Tartare Gaël</name>
     </author>
@@ -17,8 +17,9 @@
         <link href="https://tartaregael.github.io/bonjour.html"/>
         <id>https://tartaregael.github.io/bonjour.html</id>
         <media:content url="https://tartaregael.github.io/media/posts/1/article_cover.png" medium="image" />
+            <category term="Projet de création d&#x27;application"/>
 
-        <updated>2023-03-27T23:50:48+02:00</updated>
+        <updated>2023-03-27T23:54:37+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tartaregael.github.io/media/posts/1/article_cover.png" alt="" />
