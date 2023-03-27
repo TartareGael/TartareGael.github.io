@@ -3,31 +3,38 @@
     <title>Tartare Gaël</title>
     <link href="https://tartaregael.github.io/feed.xml" rel="self" />
     <link href="https://tartaregael.github.io" />
-    <updated>2023-03-27T19:46:57+02:00</updated>
+    <updated>2023-03-27T23:50:48+02:00</updated>
     <author>
         <name>Tartare Gaël</name>
     </author>
     <id>https://tartaregael.github.io</id>
 
     <entry>
-        <title>Bonjour</title>
+        <title>Food Day Lover</title>
         <author>
             <name>Tartare Gaël</name>
         </author>
         <link href="https://tartaregael.github.io/bonjour.html"/>
         <id>https://tartaregael.github.io/bonjour.html</id>
+        <media:content url="https://tartaregael.github.io/media/posts/1/article_cover.png" medium="image" />
 
-        <updated>2023-03-27T19:46:57+02:00</updated>
+        <updated>2023-03-27T23:50:48+02:00</updated>
             <summary>
                 <![CDATA[
-                    BlablablablbaBMLAAAAAAA
+                        <img src="https://tartaregael.github.io/media/posts/1/article_cover.png" alt="" />
+                    Projet de création d'application
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://tartaregael.github.io/media/posts/1/article_cover.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
-    BlablablablbaBMLAAAAAAA
+    Projet de création d'application
+  </p>
+
+  <p>
+    
   </p>
             ]]>
         </content>
