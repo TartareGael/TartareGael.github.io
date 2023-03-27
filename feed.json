@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tartare Gaël",
+    "description": "",
+    "home_page_url": "https://tartaregael.github.io",
+    "feed_url": "https://tartaregael.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Tartare Gaël"
+    },
+    "items": [
+        {
+            "id": "https://tartaregael.github.io/bonjour.html",
+            "url": "https://tartaregael.github.io/bonjour.html",
+            "title": "Bonjour",
+            "summary": "BlablablablbaBMLAAAAAAA",
+            "content_html": "\n  <p>\n    BlablablablbaBMLAAAAAAA\n  </p>",
+            "author": {
+                "name": "Tartare Gaël"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-27T19:46:57+02:00",
+            "date_modified": "2023-03-27T19:46:57+02:00"
+        }
+    ]
+}

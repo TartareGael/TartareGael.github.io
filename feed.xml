@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Tartare Gaël</title>
+    <link href="https://tartaregael.github.io/feed.xml" rel="self" />
+    <link href="https://tartaregael.github.io" />
+    <updated>2023-03-27T19:46:57+02:00</updated>
+    <author>
+        <name>Tartare Gaël</name>
+    </author>
+    <id>https://tartaregael.github.io</id>
+
+    <entry>
+        <title>Bonjour</title>
+        <author>
+            <name>Tartare Gaël</name>
+        </author>
+        <link href="https://tartaregael.github.io/bonjour.html"/>
+        <id>https://tartaregael.github.io/bonjour.html</id>
+
+        <updated>2023-03-27T19:46:57+02:00</updated>
+            <summary>
+                <![CDATA[
+                    BlablablablbaBMLAAAAAAA
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    BlablablablbaBMLAAAAAAA
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
