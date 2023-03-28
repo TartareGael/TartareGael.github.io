@@ -3,7 +3,7 @@
     <title>Tartare Gaël</title>
     <link href="https://tartaregael.github.io/feed.xml" rel="self" />
     <link href="https://tartaregael.github.io" />
-    <updated>2023-03-27T23:54:37+02:00</updated>
+    <updated>2023-03-28T18:57:34+02:00</updated>
     <author>
         <name>Tartare Gaël</name>
     </author>
@@ -19,25 +19,72 @@
         <media:content url="https://tartaregael.github.io/media/posts/1/article_cover.png" medium="image" />
             <category term="Projet de création d&#x27;application"/>
 
-        <updated>2023-03-27T23:54:37+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://tartaregael.github.io/media/posts/1/article_cover.png" alt="" />
-                    Projet de création d'application
-                ]]>
-            </summary>
+        <updated>2023-03-28T17:18:36+02:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://tartaregael.github.io/media/posts/1/article_cover.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
-    Projet de création d'application
-  </p>
-
-  <p>
     
   </p>
             ]]>
         </content>
+    </entry>
+    <entry>
+        <title>Spotify</title>
+        <author>
+            <name>Tartare Gaël</name>
+        </author>
+        <link href="https://tartaregael.github.io/spotify.html"/>
+        <id>https://tartaregael.github.io/spotify.html</id>
+        <media:content url="https://tartaregael.github.io/media/posts/2/Spotify-coover.png" medium="image" />
+            <category term="Étude de cas"/>
+
+        <updated>2023-03-28T17:43:15+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://tartaregael.github.io/media/posts/2/Spotify-coover.png" alt="" />
+                    En choisissant Spotify j’ai décidé de crée un parcours utilisateur en lien avec l’émotion ressentie. Selon moi la musique et&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://tartaregael.github.io/media/posts/2/Spotify-coover.png" class="type:primaryImage" alt="" /></p>
+                <p class="align-left">En choisissant Spotify j’ai décidé de crée un parcours utilisateur en lien avec l’émotion ressentie.<br>Selon moi la musique et l’émotion sont liées et c’est pourquoi j’ai demandé à l’utilisateur quel émotion ressentait-il pour lui proposer une liste de musique en lien avec cela.<br><br>Il pourra par la suite se rapprocher d’un ou des styles qu’il affectionne puis il aura également la possibilité de pouvoir découvrir ou non de nouveaux univers musicaux à travers quatre différentes propositions.<br><br>Ensuite l'utilisateur arrivera sur la playlist avec au total un temps de deux heures trente d’écoute pour que celle ci ne soit n’y trop longue ou ni trop courte et que l’on y trouve un juste milieu afin de pouvoir l’écouter entièrement.<br><br>J’ai également décidé de faire une maquette différente pour la découverte des nouveaux univers musicaux afin de la présenter lors de la phase de test utilisateurs pour voir laquelle serait la plus intuitive pour l’utilisateur.<br><br>Nous pouvons constater un autre fait, le fait d’avoir une playlist unique ou l’utilisateur pourra peut être pensé qu’une attention particulière lui a été de mise vu que la celle ci n’est consacré qu’à lui.<br><br>Dans cette histoire, nous gagnons du temps de rétention mais aussi du tôt de rebond pour l’application et je ne pense pas que ces deux gains soient néfastes pour l’utilisateur. Bien au contraire, s’il est d’humeur morose, la musique adoucis parfois les mœurs.<br>Et dans son opposé, une humeur joyeuse enjoliver d’une musique en lien avec cela.<br><br>Pour finir, pour rejoindre ces traits d’humeurs, je pense qu’il est important d’introduire un petit mot sur la page de création de playslist une fois le questionnaire terminé pour embellir l’état d’esprit dans lequel se trouve l’utilisateur.</p>
+<h2>Début du  questionnaire<br><figure class="post__image post__image--center"><img loading="lazy"  src="https://tartaregael.github.io/media/posts/2/Fond-acceuil.png" alt="" width="893" height="667" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://tartaregael.github.io/media/posts/2/responsive/Fond-acceuil-xs.png 384w ,https://tartaregael.github.io/media/posts/2/responsive/Fond-acceuil-sm.png 600w ,https://tartaregael.github.io/media/posts/2/responsive/Fond-acceuil-md.png 768w ,https://tartaregael.github.io/media/posts/2/responsive/Fond-acceuil-lg.png 1200w ,https://tartaregael.github.io/media/posts/2/responsive/Fond-acceuil-xl.png 1600w"></figure></h2>
+<h2><br>Différents écrans pour test utilisateur<br><figure class="post__image post__image--center"><img loading="lazy"  src="https://tartaregael.github.io/media/posts/2/Test-utilisateur.png" alt="" width="893" height="667" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://tartaregael.github.io/media/posts/2/responsive/Test-utilisateur-xs.png 384w ,https://tartaregael.github.io/media/posts/2/responsive/Test-utilisateur-sm.png 600w ,https://tartaregael.github.io/media/posts/2/responsive/Test-utilisateur-md.png 768w ,https://tartaregael.github.io/media/posts/2/responsive/Test-utilisateur-lg.png 1200w ,https://tartaregael.github.io/media/posts/2/responsive/Test-utilisateur-xl.png 1600w"></figure></h2>
+<h2><br>Début de l'écoute<br><figure class="post__image post__image--center"><img loading="lazy"  src="https://tartaregael.github.io/media/posts/2/Ecran-final.png" alt="" width="893" height="667" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://tartaregael.github.io/media/posts/2/responsive/Ecran-final-xs.png 384w ,https://tartaregael.github.io/media/posts/2/responsive/Ecran-final-sm.png 600w ,https://tartaregael.github.io/media/posts/2/responsive/Ecran-final-md.png 768w ,https://tartaregael.github.io/media/posts/2/responsive/Ecran-final-lg.png 1200w ,https://tartaregael.github.io/media/posts/2/responsive/Ecran-final-xl.png 1600w"></figure></h2>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Shazam</title>
+        <author>
+            <name>Tartare Gaël</name>
+        </author>
+        <link href="https://tartaregael.github.io/shazam.html"/>
+        <id>https://tartaregael.github.io/shazam.html</id>
+        <media:content url="https://tartaregael.github.io/media/posts/3/Mock-up-shazam.png" medium="image" />
+            <category term="Redesign d&#x27;application"/>
+
+        <updated>2023-03-28T18:55:11+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Nike</title>
+        <author>
+            <name>Tartare Gaël</name>
+        </author>
+        <link href="https://tartaregael.github.io/nike.html"/>
+        <id>https://tartaregael.github.io/nike.html</id>
+        <media:content url="https://tartaregael.github.io/media/posts/4/Site-nike-2.png" medium="image" />
+            <category term="Redesign du site Nike desktop"/>
+
+        <updated>2023-03-28T18:57:34+02:00</updated>
+            <summary></summary>
+        <content></content>
     </entry>
 </feed>

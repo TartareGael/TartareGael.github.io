@@ -13,8 +13,7 @@
             "id": "https://tartaregael.github.io/bonjour.html",
             "url": "https://tartaregael.github.io/bonjour.html",
             "title": "Food Day Lover",
-            "summary": "Projet de création d'application",
-            "content_html": "\n  <p>\n    Projet de création d'application\n  </p>\n\n  <p>\n    \n  </p>",
+            "content_html": "\n  <p>\n    \n  </p>",
             "image": "https://tartaregael.github.io/media/posts/1/article_cover.png",
             "author": {
                 "name": "Tartare Gaël"
@@ -22,8 +21,52 @@
             "tags": [
                    "Projet de création d&#x27;application"
             ],
-            "date_published": "2023-03-27T19:46:57+02:00",
-            "date_modified": "2023-03-27T23:54:37+02:00"
+            "date_published": "2023-03-27T19:46:00+02:00",
+            "date_modified": "2023-03-28T17:18:36+02:00"
+        },
+        {
+            "id": "https://tartaregael.github.io/spotify.html",
+            "url": "https://tartaregael.github.io/spotify.html",
+            "title": "Spotify",
+            "summary": "En choisissant Spotify j’ai décidé de crée un parcours utilisateur en lien avec l’émotion ressentie. Selon moi la musique et&hellip;",
+            "content_html": "<p class=\"align-left\">En choisissant Spotify j’ai décidé de crée un parcours utilisateur en lien avec l’émotion ressentie.<br>Selon moi la musique et l’émotion sont liées et c’est pourquoi j’ai demandé à l’utilisateur quel émotion ressentait-il pour lui proposer une liste de musique en lien avec cela.<br><br>Il pourra par la suite se rapprocher d’un ou des styles qu’il affectionne puis il aura également la possibilité de pouvoir découvrir ou non de nouveaux univers musicaux à travers quatre différentes propositions.<br><br>Ensuite l'utilisateur arrivera sur la playlist avec au total un temps de deux heures trente d’écoute pour que celle ci ne soit n’y trop longue ou ni trop courte et que l’on y trouve un juste milieu afin de pouvoir l’écouter entièrement.<br><br>J’ai également décidé de faire une maquette différente pour la découverte des nouveaux univers musicaux afin de la présenter lors de la phase de test utilisateurs pour voir laquelle serait la plus intuitive pour l’utilisateur.<br><br>Nous pouvons constater un autre fait, le fait d’avoir une playlist unique ou l’utilisateur pourra peut être pensé qu’une attention particulière lui a été de mise vu que la celle ci n’est consacré qu’à lui.<br><br>Dans cette histoire, nous gagnons du temps de rétention mais aussi du tôt de rebond pour l’application et je ne pense pas que ces deux gains soient néfastes pour l’utilisateur. Bien au contraire, s’il est d’humeur morose, la musique adoucis parfois les mœurs.<br>Et dans son opposé, une humeur joyeuse enjoliver d’une musique en lien avec cela.<br><br>Pour finir, pour rejoindre ces traits d’humeurs, je pense qu’il est important d’introduire un petit mot sur la page de création de playslist une fois le questionnaire terminé pour embellir l’état d’esprit dans lequel se trouve l’utilisateur.</p>\n<h2>Début du  questionnaire<br><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://tartaregael.github.io/media/posts/2/Fond-acceuil.png\" alt=\"\" width=\"893\" height=\"667\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://tartaregael.github.io/media/posts/2/responsive/Fond-acceuil-xs.png 384w ,https://tartaregael.github.io/media/posts/2/responsive/Fond-acceuil-sm.png 600w ,https://tartaregael.github.io/media/posts/2/responsive/Fond-acceuil-md.png 768w ,https://tartaregael.github.io/media/posts/2/responsive/Fond-acceuil-lg.png 1200w ,https://tartaregael.github.io/media/posts/2/responsive/Fond-acceuil-xl.png 1600w\"></figure></h2>\n<h2><br>Différents écrans pour test utilisateur<br><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://tartaregael.github.io/media/posts/2/Test-utilisateur.png\" alt=\"\" width=\"893\" height=\"667\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://tartaregael.github.io/media/posts/2/responsive/Test-utilisateur-xs.png 384w ,https://tartaregael.github.io/media/posts/2/responsive/Test-utilisateur-sm.png 600w ,https://tartaregael.github.io/media/posts/2/responsive/Test-utilisateur-md.png 768w ,https://tartaregael.github.io/media/posts/2/responsive/Test-utilisateur-lg.png 1200w ,https://tartaregael.github.io/media/posts/2/responsive/Test-utilisateur-xl.png 1600w\"></figure></h2>\n<h2><br>Début de l'écoute<br><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://tartaregael.github.io/media/posts/2/Ecran-final.png\" alt=\"\" width=\"893\" height=\"667\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://tartaregael.github.io/media/posts/2/responsive/Ecran-final-xs.png 384w ,https://tartaregael.github.io/media/posts/2/responsive/Ecran-final-sm.png 600w ,https://tartaregael.github.io/media/posts/2/responsive/Ecran-final-md.png 768w ,https://tartaregael.github.io/media/posts/2/responsive/Ecran-final-lg.png 1200w ,https://tartaregael.github.io/media/posts/2/responsive/Ecran-final-xl.png 1600w\"></figure></h2>\n<p> </p>",
+            "image": "https://tartaregael.github.io/media/posts/2/Spotify-coover.png",
+            "author": {
+                "name": "Tartare Gaël"
+            },
+            "tags": [
+                   "Étude de cas"
+            ],
+            "date_published": "2023-03-26T12:17:00+02:00",
+            "date_modified": "2023-03-28T17:43:15+02:00"
+        },
+        {
+            "id": "https://tartaregael.github.io/shazam.html",
+            "url": "https://tartaregael.github.io/shazam.html",
+            "title": "Shazam",
+            "image": "https://tartaregael.github.io/media/posts/3/Mock-up-shazam.png",
+            "author": {
+                "name": "Tartare Gaël"
+            },
+            "tags": [
+                   "Redesign d&#x27;application"
+            ],
+            "date_published": "2023-03-25T17:46:00+01:00",
+            "date_modified": "2023-03-28T18:55:11+02:00"
+        },
+        {
+            "id": "https://tartaregael.github.io/nike.html",
+            "url": "https://tartaregael.github.io/nike.html",
+            "title": "Nike",
+            "image": "https://tartaregael.github.io/media/posts/4/Site-nike-2.png",
+            "author": {
+                "name": "Tartare Gaël"
+            },
+            "tags": [
+                   "Redesign du site Nike desktop"
+            ],
+            "date_published": "2023-03-24T18:47:00+01:00",
+            "date_modified": "2023-03-28T18:57:34+02:00"
         }
     ]
 }
