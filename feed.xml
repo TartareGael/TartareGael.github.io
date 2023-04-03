@@ -3,7 +3,7 @@
     <title>Tartare Gaël</title>
     <link href="https://tartaregael.github.io/feed.xml" rel="self" />
     <link href="https://tartaregael.github.io" />
-    <updated>2023-04-03T11:58:00+02:00</updated>
+    <updated>2023-04-03T12:04:49+02:00</updated>
     <author>
         <name>Tartare Gaël</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://tartaregael.github.io/media/posts/1/article_cover.png" medium="image" />
             <category term="Projet de création d&#x27;application"/>
 
-        <updated>2023-04-03T11:58:00+02:00</updated>
+        <updated>2023-04-03T12:04:49+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tartaregael.github.io/media/posts/1/article_cover.png" alt="" />
@@ -173,7 +173,7 @@
     </h2>
 
     <figure class="post__image post__image--full">
-      <img loading="lazy" src="https://tartaregael.github.io/media/posts/1/Diagramme.png" height="984" width="1920" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://tartaregael.github.io/media/posts/1/responsive/Diagramme-xs.png 384w ,https://tartaregael.github.io/media/posts/1/responsive/Diagramme-sm.png 600w ,https://tartaregael.github.io/media/posts/1/responsive/Diagramme-md.png 768w ,https://tartaregael.github.io/media/posts/1/responsive/Diagramme-lg.png 1200w ,https://tartaregael.github.io/media/posts/1/responsive/Diagramme-xl.png 1600w">
+      <img loading="lazy" src="https://tartaregael.github.io/media/posts/1/Diagramme-final.png" height="3935" width="8464" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://tartaregael.github.io/media/posts/1/responsive/Diagramme-final-xs.png 384w ,https://tartaregael.github.io/media/posts/1/responsive/Diagramme-final-sm.png 600w ,https://tartaregael.github.io/media/posts/1/responsive/Diagramme-final-md.png 768w ,https://tartaregael.github.io/media/posts/1/responsive/Diagramme-final-lg.png 1200w ,https://tartaregael.github.io/media/posts/1/responsive/Diagramme-final-xl.png 1600w">
       
     </figure>
 
