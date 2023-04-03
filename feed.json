@@ -59,7 +59,8 @@
             "id": "https://tartaregael.github.io/nike.html",
             "url": "https://tartaregael.github.io/nike.html",
             "title": "Nike",
-            "image": "https://tartaregael.github.io/media/posts/4/Capture-decran-2023-04-03-a-12.11.55.png",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://tartaregael.github.io/media/posts/4/Site-nike-de-base.png\" alt=\"\" width=\"3584\" height=\"2074\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://tartaregael.github.io/media/posts/4/responsive/Site-nike-de-base-xs.png 384w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-de-base-sm.png 600w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-de-base-md.png 768w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-de-base-lg.png 1200w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-de-base-xl.png 1600w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://tartaregael.github.io/media/posts/4/Site-nike.png\" alt=\"\" width=\"1728\" height=\"1117\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://tartaregael.github.io/media/posts/4/responsive/Site-nike-xs.png 384w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-sm.png 600w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-md.png 768w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-lg.png 1200w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-xl.png 1600w\"></figure>",
+            "image": "https://tartaregael.github.io/media/posts/4/Nike2.png",
             "author": {
                 "name": "Tartare Gaël"
             },
@@ -67,7 +68,7 @@
                    "Redesign du site Nike desktop"
             ],
             "date_published": "2023-03-24T18:47:00+01:00",
-            "date_modified": "2023-04-03T12:12:30+02:00"
+            "date_modified": "2023-04-03T13:33:46+02:00"
         }
     ]
 }
