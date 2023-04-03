@@ -3,7 +3,7 @@
     <title>Tartare Gaël</title>
     <link href="https://tartaregael.github.io/feed.xml" rel="self" />
     <link href="https://tartaregael.github.io" />
-    <updated>2023-04-03T14:30:05+02:00</updated>
+    <updated>2023-04-03T18:04:31+02:00</updated>
     <author>
         <name>Tartare Gaël</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://tartaregael.github.io/media/posts/1/article_cover.png" medium="image" />
             <category term="Projet de création d&#x27;application"/>
 
-        <updated>2023-04-03T12:09:53+02:00</updated>
+        <updated>2023-04-03T17:48:52+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tartaregael.github.io/media/posts/1/article_cover.png" alt="" />
@@ -271,12 +271,17 @@
         </author>
         <link href="https://tartaregael.github.io/shazam.html"/>
         <id>https://tartaregael.github.io/shazam.html</id>
-        <media:content url="https://tartaregael.github.io/media/posts/3/Mock-up-shazam.png" medium="image" />
+        <media:content url="https://tartaregael.github.io/media/posts/3/Presentation.png" medium="image" />
             <category term="Redesign d&#x27;application"/>
 
-        <updated>2023-03-28T18:55:11+02:00</updated>
+        <updated>2023-04-03T18:04:31+02:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://tartaregael.github.io/media/posts/3/Presentation.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://tartaregael.github.io/media/posts/3/Shazam-texte-2.png" alt="" width="1600" height="1200" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://tartaregael.github.io/media/posts/3/responsive/Shazam-texte-2-xs.png 384w ,https://tartaregael.github.io/media/posts/3/responsive/Shazam-texte-2-sm.png 600w ,https://tartaregael.github.io/media/posts/3/responsive/Shazam-texte-2-md.png 768w ,https://tartaregael.github.io/media/posts/3/responsive/Shazam-texte-2-lg.png 1200w ,https://tartaregael.github.io/media/posts/3/responsive/Shazam-texte-2-xl.png 1600w"></figure>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Nike</title>
@@ -285,16 +290,22 @@
         </author>
         <link href="https://tartaregael.github.io/nike.html"/>
         <id>https://tartaregael.github.io/nike.html</id>
-        <media:content url="https://tartaregael.github.io/media/posts/4/Nike-blur-75.png" medium="image" />
+        <media:content url="https://tartaregael.github.io/media/posts/4/Nike-blur-80.png" medium="image" />
             <category term="Redesign du site Nike desktop"/>
 
-        <updated>2023-04-03T14:30:05+02:00</updated>
-            <summary></summary>
+        <updated>2023-04-03T16:32:57+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://tartaregael.github.io/media/posts/4/Nike-blur-80.png" alt="" />
+                    Pour ce redesign de site web desktop, j'ai choisi Nike afin de pouvoir m'éxercer sur une bonne structure selon moi.
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://tartaregael.github.io/media/posts/4/Nike-blur-75.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://tartaregael.github.io/media/posts/4/Nike-blur-80.png" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image"><img loading="lazy"  src="https://tartaregael.github.io/media/posts/4/Site-nike-de-base.png" alt="" width="3584" height="2074" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://tartaregael.github.io/media/posts/4/responsive/Site-nike-de-base-xs.png 384w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-de-base-sm.png 600w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-de-base-md.png 768w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-de-base-lg.png 1200w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-de-base-xl.png 1600w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://tartaregael.github.io/media/posts/4/Site-nike.png" alt="" width="1728" height="1117" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://tartaregael.github.io/media/posts/4/responsive/Site-nike-xs.png 384w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-sm.png 600w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-md.png 768w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-lg.png 1200w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-xl.png 1600w"></figure>
+<p>Pour ce redesign de site web desktop, j'ai choisi Nike afin de pouvoir m'éxercer sur une bonne structure selon moi.<br><br>Je trouve que l'experience utilisateur et l'interface utilisateur font vivre une bonne experience à l'utilisateur et c'est pourquoi j'ai choisi Nike.<br><br>Sur l'image du haut, vous pouvez retrouver le site Nike desktop actuel. Puis sur l'image en dessous vous trouverez mon redesign.<br><br>Concernant celui ci, j'ai simplement inversé les couleurs qu'on pouvait retrouver sur le site en incluant en couleur primaire le gris puis en secondaire le blanc et le noir.<br>Pour ce qui est des marques partenaires qui accompagnaient le logo Nike en haut à gauche, j'ai décidé de ne laisser que le logo Nike pour ne pas trop investir la première page de marque.<br>Mais elles pourront être retrouvés une fois la page défilé en bas.</p>
+<figure class="post__image"><img loading="lazy"  src="https://tartaregael.github.io/media/posts/4/Site-nike-3.png" alt="" width="1728" height="1117" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://tartaregael.github.io/media/posts/4/responsive/Site-nike-3-xs.png 384w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-3-sm.png 600w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-3-md.png 768w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-3-lg.png 1200w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-3-xl.png 1600w"></figure>
             ]]>
         </content>
     </entry>
