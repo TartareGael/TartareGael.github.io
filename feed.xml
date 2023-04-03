@@ -3,7 +3,7 @@
     <title>Tartare Gaël</title>
     <link href="https://tartaregael.github.io/feed.xml" rel="self" />
     <link href="https://tartaregael.github.io" />
-    <updated>2023-04-03T14:18:44+02:00</updated>
+    <updated>2023-04-03T14:30:05+02:00</updated>
     <author>
         <name>Tartare Gaël</name>
     </author>
@@ -285,14 +285,14 @@
         </author>
         <link href="https://tartaregael.github.io/nike.html"/>
         <id>https://tartaregael.github.io/nike.html</id>
-        <media:content url="https://tartaregael.github.io/media/posts/4/Nike-blureeeeee.png" medium="image" />
+        <media:content url="https://tartaregael.github.io/media/posts/4/Nike-blur-75.png" medium="image" />
             <category term="Redesign du site Nike desktop"/>
 
-        <updated>2023-04-03T14:18:44+02:00</updated>
+        <updated>2023-04-03T14:30:05+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://tartaregael.github.io/media/posts/4/Nike-blureeeeee.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://tartaregael.github.io/media/posts/4/Nike-blur-75.png" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image"><img loading="lazy"  src="https://tartaregael.github.io/media/posts/4/Site-nike-de-base.png" alt="" width="3584" height="2074" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://tartaregael.github.io/media/posts/4/responsive/Site-nike-de-base-xs.png 384w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-de-base-sm.png 600w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-de-base-md.png 768w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-de-base-lg.png 1200w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-de-base-xl.png 1600w"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://tartaregael.github.io/media/posts/4/Site-nike.png" alt="" width="1728" height="1117" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://tartaregael.github.io/media/posts/4/responsive/Site-nike-xs.png 384w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-sm.png 600w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-md.png 768w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-lg.png 1200w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-xl.png 1600w"></figure>
             ]]>
