@@ -45,7 +45,8 @@
             "id": "https://tartaregael.github.io/shazam.html",
             "url": "https://tartaregael.github.io/shazam.html",
             "title": "Shazam",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://tartaregael.github.io/media/posts/3/Shazam-texte-2.png\" alt=\"\" width=\"1600\" height=\"1200\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://tartaregael.github.io/media/posts/3/responsive/Shazam-texte-2-xs.png 384w ,https://tartaregael.github.io/media/posts/3/responsive/Shazam-texte-2-sm.png 600w ,https://tartaregael.github.io/media/posts/3/responsive/Shazam-texte-2-md.png 768w ,https://tartaregael.github.io/media/posts/3/responsive/Shazam-texte-2-lg.png 1200w ,https://tartaregael.github.io/media/posts/3/responsive/Shazam-texte-2-xl.png 1600w\"></figure>",
+            "summary": "Utilsant moi même Shazam, je trouve que cette application est bien faite et simple d'utilisation. Je l'ai trouvée inspirante autant&hellip;",
+            "content_html": "<p>Utilsant moi même Shazam, je trouve que cette application est bien faite et simple d'utilisation.<br>Je l'ai trouvée inspirante autant sur l'experience utilisateur ou il n'y a pas énormément de choix pour ce dernier.<br>Qu'en premier lieu, dans la majeur partie des cas, l'action première est de pouvoir retrouver une musique en très peu de temps sans forcément avoir le besoin de chercher.<br>Et dans un second temps, je trouve que les couleurs se raccordent très bien avec l'experience utilisateurs.<br><br>Pour ce redesign j'ai donc décidé de garder cette thématique en incluant une couleur joyeuse et vive qui pour moi serait plutôt raccord avec la musique, tout en cassant cette orange un peu électrique avec une couleur crème orangé.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://tartaregael.github.io/media/posts/3/Shazam-texte.png\" alt=\"\" width=\"1600\" height=\"1200\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://tartaregael.github.io/media/posts/3/responsive/Shazam-texte-xs.png 384w ,https://tartaregael.github.io/media/posts/3/responsive/Shazam-texte-sm.png 600w ,https://tartaregael.github.io/media/posts/3/responsive/Shazam-texte-md.png 768w ,https://tartaregael.github.io/media/posts/3/responsive/Shazam-texte-lg.png 1200w ,https://tartaregael.github.io/media/posts/3/responsive/Shazam-texte-xl.png 1600w\"></figure>",
             "image": "https://tartaregael.github.io/media/posts/3/Presentation.png",
             "author": {
                 "name": "Tartare Gaël"
@@ -54,7 +55,7 @@
                    "Redesign d&#x27;application"
             ],
             "date_published": "2023-03-25T17:46:00+01:00",
-            "date_modified": "2023-04-03T18:04:31+02:00"
+            "date_modified": "2023-04-03T22:15:50+02:00"
         },
         {
             "id": "https://tartaregael.github.io/nike.html",
