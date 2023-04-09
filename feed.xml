@@ -3,7 +3,7 @@
     <title>Tartare Gaël</title>
     <link href="https://tartaregael.github.io/feed.xml" rel="self" />
     <link href="https://tartaregael.github.io" />
-    <updated>2023-04-09T13:51:03+02:00</updated>
+    <updated>2023-04-09T13:56:49+02:00</updated>
     <author>
         <name>Tartare Gaël</name>
     </author>
@@ -309,7 +309,7 @@
         <link href="https://tartaregael.github.io/nike.html"/>
         <id>https://tartaregael.github.io/nike.html</id>
         <media:content url="https://tartaregael.github.io/media/posts/4/Nike-blur-80.png" medium="image" />
-            <category term="Redesign du site Nike desktop"/>
+            <category term="Redesign de site desktop"/>
 
         <updated>2023-04-03T22:44:46+02:00</updated>
             <summary>
@@ -335,8 +335,9 @@
         <link href="https://tartaregael.github.io/youtube.html"/>
         <id>https://tartaregael.github.io/youtube.html</id>
         <media:content url="https://tartaregael.github.io/media/posts/5/You-tube-page.png" medium="image" />
+            <category term="Redesign de site desktop, tablette et mobile"/>
 
-        <updated>2023-04-09T13:51:03+02:00</updated>
+        <updated>2023-04-09T13:56:49+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tartaregael.github.io/media/posts/5/You-tube-page.png" alt="" />
