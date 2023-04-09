@@ -72,6 +72,21 @@
             ],
             "date_published": "2023-03-24T18:47:00+01:00",
             "date_modified": "2023-04-03T22:44:46+02:00"
+        },
+        {
+            "id": "https://tartaregael.github.io/youtube.html",
+            "url": "https://tartaregael.github.io/youtube.html",
+            "title": "YouTube",
+            "summary": "Tout comme Nike j'ai chosi YouTube comme redesign de site desktop. Mais cette fois ci j'ai voulu aller un peu&hellip;",
+            "content_html": "<figure class=\"post__image\"><img  src=\"https://tartaregael.github.io/media/posts/5/Youtube-premiere-4.png\" alt=\"\" width=\"1920\" height=\"479\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://tartaregael.github.io/media/posts/5/responsive/Youtube-premiere-4-xs.png 384w ,https://tartaregael.github.io/media/posts/5/responsive/Youtube-premiere-4-sm.png 600w ,https://tartaregael.github.io/media/posts/5/responsive/Youtube-premiere-4-md.png 768w ,https://tartaregael.github.io/media/posts/5/responsive/Youtube-premiere-4-lg.png 1200w ,https://tartaregael.github.io/media/posts/5/responsive/Youtube-premiere-4-xl.png 1600w\"></figure><br>Tout comme Nike j'ai chosi YouTube comme redesign de site desktop. Mais cette fois ci j'ai voulu aller un peu plus loin en m'exercant aussi sur un format tablette et smartphone.<br><br>J'ai donc pris le thème sombre pour apporter un peu plus de contraste au redesign en utilisant comme couleur primaire, sur l'image à gauche, un bleu électrique ainsi qu'un orange légèrement jaunâtre sur l'image à droite. Puis en couleur secondaire, j'ai utilisé du blanc tiré de la couleur principal et un marron grisé.<br><br>Pour finir, j'ai voulu inclure une nouveauté sur les profils certififiés, ceux qui auront un nombre d'abonnés conséquent pourront obtenir la certification actuel de YouTube. Et pour ceux ayant déjà cette certification avec un nombre d'abonnés largement plus élévé pourront se voir octroyé une deuxième certification.<br>Ce genre de gain subjectif n'est peut être que peu mais il pourrait motivé certains utilisateurs par exemple et apporter une seconde gratification positive.<br><br><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://tartaregael.github.io/media/posts/5/YoutTube-tablette-et-mobile.png\" alt=\"\" width=\"1920\" height=\"479\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://tartaregael.github.io/media/posts/5/responsive/YoutTube-tablette-et-mobile-xs.png 384w ,https://tartaregael.github.io/media/posts/5/responsive/YoutTube-tablette-et-mobile-sm.png 600w ,https://tartaregael.github.io/media/posts/5/responsive/YoutTube-tablette-et-mobile-md.png 768w ,https://tartaregael.github.io/media/posts/5/responsive/YoutTube-tablette-et-mobile-lg.png 1200w ,https://tartaregael.github.io/media/posts/5/responsive/YoutTube-tablette-et-mobile-xl.png 1600w\"></figure>",
+            "image": "https://tartaregael.github.io/media/posts/5/You-tube-page.png",
+            "author": {
+                "name": "Tartare Gaël"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-20T12:56:00+01:00",
+            "date_modified": "2023-04-09T13:51:03+02:00"
         }
     ]
 }

@@ -3,7 +3,7 @@
     <title>Tartare Gaël</title>
     <link href="https://tartaregael.github.io/feed.xml" rel="self" />
     <link href="https://tartaregael.github.io" />
-    <updated>2023-04-04T15:52:43+02:00</updated>
+    <updated>2023-04-09T13:51:03+02:00</updated>
     <author>
         <name>Tartare Gaël</name>
     </author>
@@ -324,6 +324,29 @@
                 <figure class="post__image"><img loading="lazy"  src="https://tartaregael.github.io/media/posts/4/Site-nike-de-base.png" alt="" width="3584" height="2074" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://tartaregael.github.io/media/posts/4/responsive/Site-nike-de-base-xs.png 384w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-de-base-sm.png 600w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-de-base-md.png 768w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-de-base-lg.png 1200w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-de-base-xl.png 1600w"></figure>
 <p>Pour ce redesign de site web desktop, j'ai choisi Nike afin de pouvoir m'éxercer sur une bonne structure selon moi.<br><br>Je trouve que l'experience utilisateur et l'interface utilisateur font vivre une bonne experience à l'utilisateur et c'est pourquoi j'ai choisi Nike.<br><br>Sur l'image du haut, vous pouvez retrouver le site Nike desktop actuel. Puis sur l'image en dessous vous trouverez mon redesign.<br><br>Concernant celui ci, j'ai simplement inversé les couleurs qu'on pouvait retrouver sur le site en incluant en couleur primaire le gris puis en secondaire le blanc et le noir.<br>Pour ce qui est des marques partenaires qui accompagnaient le logo Nike en haut à gauche, j'ai décidé de ne laisser que le logo Nike pour ne pas trop investir la première page de marque.<br>Mais elles pourront être retrouvés une fois la page défilé en bas.</p>
 <figure class="post__image"><img loading="lazy"  src="https://tartaregael.github.io/media/posts/4/Site-nike-3.png" alt="" width="1728" height="1117" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://tartaregael.github.io/media/posts/4/responsive/Site-nike-3-xs.png 384w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-3-sm.png 600w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-3-md.png 768w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-3-lg.png 1200w ,https://tartaregael.github.io/media/posts/4/responsive/Site-nike-3-xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>YouTube</title>
+        <author>
+            <name>Tartare Gaël</name>
+        </author>
+        <link href="https://tartaregael.github.io/youtube.html"/>
+        <id>https://tartaregael.github.io/youtube.html</id>
+        <media:content url="https://tartaregael.github.io/media/posts/5/You-tube-page.png" medium="image" />
+
+        <updated>2023-04-09T13:51:03+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://tartaregael.github.io/media/posts/5/You-tube-page.png" alt="" />
+                    Tout comme Nike j'ai chosi YouTube comme redesign de site desktop. Mais cette fois ci j'ai voulu aller un peu&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://tartaregael.github.io/media/posts/5/You-tube-page.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img  src="https://tartaregael.github.io/media/posts/5/Youtube-premiere-4.png" alt="" width="1920" height="479" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://tartaregael.github.io/media/posts/5/responsive/Youtube-premiere-4-xs.png 384w ,https://tartaregael.github.io/media/posts/5/responsive/Youtube-premiere-4-sm.png 600w ,https://tartaregael.github.io/media/posts/5/responsive/Youtube-premiere-4-md.png 768w ,https://tartaregael.github.io/media/posts/5/responsive/Youtube-premiere-4-lg.png 1200w ,https://tartaregael.github.io/media/posts/5/responsive/Youtube-premiere-4-xl.png 1600w"></figure><br>Tout comme Nike j'ai chosi YouTube comme redesign de site desktop. Mais cette fois ci j'ai voulu aller un peu plus loin en m'exercant aussi sur un format tablette et smartphone.<br><br>J'ai donc pris le thème sombre pour apporter un peu plus de contraste au redesign en utilisant comme couleur primaire, sur l'image à gauche, un bleu électrique ainsi qu'un orange légèrement jaunâtre sur l'image à droite. Puis en couleur secondaire, j'ai utilisé du blanc tiré de la couleur principal et un marron grisé.<br><br>Pour finir, j'ai voulu inclure une nouveauté sur les profils certififiés, ceux qui auront un nombre d'abonnés conséquent pourront obtenir la certification actuel de YouTube. Et pour ceux ayant déjà cette certification avec un nombre d'abonnés largement plus élévé pourront se voir octroyé une deuxième certification.<br>Ce genre de gain subjectif n'est peut être que peu mais il pourrait motivé certains utilisateurs par exemple et apporter une seconde gratification positive.<br><br><figure class="post__image"><img loading="lazy"  src="https://tartaregael.github.io/media/posts/5/YoutTube-tablette-et-mobile.png" alt="" width="1920" height="479" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://tartaregael.github.io/media/posts/5/responsive/YoutTube-tablette-et-mobile-xs.png 384w ,https://tartaregael.github.io/media/posts/5/responsive/YoutTube-tablette-et-mobile-sm.png 600w ,https://tartaregael.github.io/media/posts/5/responsive/YoutTube-tablette-et-mobile-md.png 768w ,https://tartaregael.github.io/media/posts/5/responsive/YoutTube-tablette-et-mobile-lg.png 1200w ,https://tartaregael.github.io/media/posts/5/responsive/YoutTube-tablette-et-mobile-xl.png 1600w"></figure>
             ]]>
         </content>
     </entry>
