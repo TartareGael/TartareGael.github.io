@@ -3,7 +3,7 @@
     <title>Tartare Gaël</title>
     <link href="https://tartaregael.github.io/feed.xml" rel="self" />
     <link href="https://tartaregael.github.io" />
-    <updated>2023-04-12T19:44:39+02:00</updated>
+    <updated>2023-04-17T12:00:55+02:00</updated>
     <author>
         <name>Tartare Gaël</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://tartaregael.github.io/media/posts/1/Cover-FDL.png" medium="image" />
             <category term="Projet de création d&#x27;application"/>
 
-        <updated>2023-04-12T16:21:09+02:00</updated>
+        <updated>2023-04-17T12:00:55+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tartaregael.github.io/media/posts/1/Cover-FDL.png" alt="" />
@@ -243,7 +243,7 @@
   </p>
 
   <p>
-    Si vous souhaitez visionner la vidéo concernant cette création d'application, vous pouvez cliquez sur le lien suivant :&nbsp;https://youtu.be/PgQSHArXXOQ
+    Si vous souhaitez visionner la vidéo concernant cette création d'application, vous pouvez cliquez sur le lien suivant : <a href="https://youtu.be/PgQSHArXXOQ" target="_blank">youtu.be/PgQSHArXXOQ</a>
   </p>
             ]]>
         </content>
