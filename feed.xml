@@ -3,7 +3,7 @@
     <title>Tartare Gaël</title>
     <link href="https://tartaregael.github.io/feed.xml" rel="self" />
     <link href="https://tartaregael.github.io" />
-    <updated>2023-05-05T21:20:19+02:00</updated>
+    <updated>2023-05-05T21:23:40+02:00</updated>
     <author>
         <name>Tartare Gaël</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://tartaregael.github.io/media/posts/1/Cover-FDL.png" medium="image" />
             <category term="Projet de création d&#x27;application"/>
 
-        <updated>2023-05-05T21:20:19+02:00</updated>
+        <updated>2023-05-05T21:23:40+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tartaregael.github.io/media/posts/1/Cover-FDL.png" alt="" />
@@ -224,8 +224,8 @@
       Interfaces utilisateurs
     </h2>
 
-    <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://tartaregael.github.io/media/posts/1/3_screens_pres-1.png" height="1200" width="1600" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://tartaregael.github.io/media/posts/1/responsive/3_screens_pres-1-xs.png 384w ,https://tartaregael.github.io/media/posts/1/responsive/3_screens_pres-1-sm.png 600w ,https://tartaregael.github.io/media/posts/1/responsive/3_screens_pres-1-md.png 768w ,https://tartaregael.github.io/media/posts/1/responsive/3_screens_pres-1-lg.png 1200w ,https://tartaregael.github.io/media/posts/1/responsive/3_screens_pres-1-xl.png 1600w">
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://tartaregael.github.io/media/posts/1/3_screens_pres-1-2.png" height="1200" width="1600" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://tartaregael.github.io/media/posts/1/responsive/3_screens_pres-1-2-xs.png 384w ,https://tartaregael.github.io/media/posts/1/responsive/3_screens_pres-1-2-sm.png 600w ,https://tartaregael.github.io/media/posts/1/responsive/3_screens_pres-1-2-md.png 768w ,https://tartaregael.github.io/media/posts/1/responsive/3_screens_pres-1-2-lg.png 1200w ,https://tartaregael.github.io/media/posts/1/responsive/3_screens_pres-1-2-xl.png 1600w">
       
     </figure>
 
@@ -233,8 +233,8 @@
     Pour cette dernière partie, je vous présente mes quatre pistes d'interfaces.<br><br>En haut a gauche nous avons la version claire, qui je pense sera la version finale de l'interface utilisateur. Á sa droite, la version sombre de l'application.<br><br>Puis en dessous à gauche, j'ai trouvé que le bordeaux pouvait plutôt bien marcher avec le registre de l'application.<br>Et pour finir à sa droite,&nbsp;j'ai voulu faire quelque chose de classe et épuré selon moi qui pourrait correspondre aux deux thème présentés ci-dessus, après je ne peux pas donné réellement d'avis mais de mon point de vu, je pensais a cela.<br>
   </p>
 
-    <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://tartaregael.github.io/media/posts/1/Frame-14401-2.png" height="863" width="1920" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://tartaregael.github.io/media/posts/1/responsive/Frame-14401-2-xs.png 384w ,https://tartaregael.github.io/media/posts/1/responsive/Frame-14401-2-sm.png 600w ,https://tartaregael.github.io/media/posts/1/responsive/Frame-14401-2-md.png 768w ,https://tartaregael.github.io/media/posts/1/responsive/Frame-14401-2-lg.png 1200w ,https://tartaregael.github.io/media/posts/1/responsive/Frame-14401-2-xl.png 1600w">
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://tartaregael.github.io/media/posts/1/3_screens_pres-2-2.png" height="1200" width="1600" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://tartaregael.github.io/media/posts/1/responsive/3_screens_pres-2-2-xs.png 384w ,https://tartaregael.github.io/media/posts/1/responsive/3_screens_pres-2-2-sm.png 600w ,https://tartaregael.github.io/media/posts/1/responsive/3_screens_pres-2-2-md.png 768w ,https://tartaregael.github.io/media/posts/1/responsive/3_screens_pres-2-2-lg.png 1200w ,https://tartaregael.github.io/media/posts/1/responsive/3_screens_pres-2-2-xl.png 1600w">
       
     </figure>
 
