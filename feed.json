@@ -42,6 +42,22 @@
             "date_modified": "2023-04-12T19:36:33+02:00"
         },
         {
+            "id": "https://tartaregael.github.io/leboncoin.html",
+            "url": "https://tartaregael.github.io/leboncoin.html",
+            "title": "Leboncoin",
+            "summary": "Pour cette étude de cas, je me suis penché sur Leboncoin. En analysant l'interface utilisateur j'ai remarqué un léger moment&hellip;",
+            "content_html": "<figure class=\"post__image post__image--full\"><img  src=\"https://tartaregael.github.io/media/posts/6/Presentation-LBCN.png\" alt=\"\" width=\"1920\" height=\"863\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://tartaregael.github.io/media/posts/6/responsive/Presentation-LBCN-xs.png 384w ,https://tartaregael.github.io/media/posts/6/responsive/Presentation-LBCN-sm.png 600w ,https://tartaregael.github.io/media/posts/6/responsive/Presentation-LBCN-md.png 768w ,https://tartaregael.github.io/media/posts/6/responsive/Presentation-LBCN-lg.png 1200w ,https://tartaregael.github.io/media/posts/6/responsive/Presentation-LBCN-xl.png 1600w\"></figure>Pour cette étude de cas, je me suis penché sur Leboncoin.<br>En analysant l'interface utilisateur j'ai remarqué un léger moment de friction au niveau des annonces postées par les utilisateurs sur leurs comptes personnels.<br><br>Comme sur la photo ci-dessus, si l'utilisateurs n'a que trois annonces en ligne, le problème ne se pose pas. En revanche s'il détient plus d'une centaines d'annonces par exemple, il lui est impossible de rechercher une annonce par mots clés.<br><br>J'ai donc eu l'idée d'introduire une barre de recherche juste au dessus des annonces postées afin de simplifier l'utilisation de l'application à l'utilisateur.<br>J'ai également supprimé la dernière barre latéral qui délimitait la fin de la troisième annonce pour une meilleure uniformité de la page.<br><figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://tartaregael.github.io/media/posts/6/Presentation-LBCEC.png\" alt=\"\" width=\"1920\" height=\"863\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://tartaregael.github.io/media/posts/6/responsive/Presentation-LBCEC-xs.png 384w ,https://tartaregael.github.io/media/posts/6/responsive/Presentation-LBCEC-sm.png 600w ,https://tartaregael.github.io/media/posts/6/responsive/Presentation-LBCEC-md.png 768w ,https://tartaregael.github.io/media/posts/6/responsive/Presentation-LBCEC-lg.png 1200w ,https://tartaregael.github.io/media/posts/6/responsive/Presentation-LBCEC-xl.png 1600w\"></figure><br><br></p>",
+            "image": "https://tartaregael.github.io/media/posts/6/Page-presentation-Leboncoin.png",
+            "author": {
+                "name": "Tartare Gaël"
+            },
+            "tags": [
+                   "Études de cas"
+            ],
+            "date_published": "2023-03-26T12:00:00+02:00",
+            "date_modified": "2023-05-06T12:04:51+02:00"
+        },
+        {
             "id": "https://tartaregael.github.io/shazam.html",
             "url": "https://tartaregael.github.io/shazam.html",
             "title": "Shazam",
@@ -56,22 +72,6 @@
             ],
             "date_published": "2023-03-25T17:46:00+01:00",
             "date_modified": "2023-04-11T15:09:54+02:00"
-        },
-        {
-            "id": "https://tartaregael.github.io/leboncoin.html",
-            "url": "https://tartaregael.github.io/leboncoin.html",
-            "title": "Leboncoin",
-            "summary": "Pour cette étude de cas, je me suis penché sur Leboncoin. En analysant l'interface utilisateur j'ai remarqué un léger moment&hellip;",
-            "content_html": "<figure class=\"post__image post__image--full\"><img  src=\"https://tartaregael.github.io/media/posts/6/Presentation-LBCN.png\" alt=\"\" width=\"1920\" height=\"863\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://tartaregael.github.io/media/posts/6/responsive/Presentation-LBCN-xs.png 384w ,https://tartaregael.github.io/media/posts/6/responsive/Presentation-LBCN-sm.png 600w ,https://tartaregael.github.io/media/posts/6/responsive/Presentation-LBCN-md.png 768w ,https://tartaregael.github.io/media/posts/6/responsive/Presentation-LBCN-lg.png 1200w ,https://tartaregael.github.io/media/posts/6/responsive/Presentation-LBCN-xl.png 1600w\"></figure>Pour cette étude de cas, je me suis penché sur Leboncoin.<br>En analysant l'interface utilisateur j'ai remarqué un léger moment de friction au niveau des annonces postées par les utilisateurs sur leurs comptes personnels.<br><br>Comme sur la photo ci-dessus, si l'utilisateurs n'a que trois annonces en ligne, le problème ne se pose pas. En revanche s'il détient plus d'une centaines d'annonces par exemple, il lui est impossible de rechercher une annonce par mots clés.<br><br>J'ai donc eu l'idée d'introduire une barre de recherche juste au dessus des annonces postées afin de simplifier l'utilisation de l'application à l'utilisateur.<br>J'ai également supprimé la dernière barre latéral qui délimitait la fin de la troisième annonce pour une meilleure uniformité de la page.<br><figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://tartaregael.github.io/media/posts/6/Presentation-LBCEC.png\" alt=\"\" width=\"1920\" height=\"863\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://tartaregael.github.io/media/posts/6/responsive/Presentation-LBCEC-xs.png 384w ,https://tartaregael.github.io/media/posts/6/responsive/Presentation-LBCEC-sm.png 600w ,https://tartaregael.github.io/media/posts/6/responsive/Presentation-LBCEC-md.png 768w ,https://tartaregael.github.io/media/posts/6/responsive/Presentation-LBCEC-lg.png 1200w ,https://tartaregael.github.io/media/posts/6/responsive/Presentation-LBCEC-xl.png 1600w\"></figure><br><br></p>",
-            "image": "https://tartaregael.github.io/media/posts/6/Page-presentation-Leboncoin.png",
-            "author": {
-                "name": "Tartare Gaël"
-            },
-            "tags": [
-                   "Études de cas"
-            ],
-            "date_published": "2023-03-25T12:00:00+01:00",
-            "date_modified": "2023-05-06T12:02:15+02:00"
         },
         {
             "id": "https://tartaregael.github.io/nike.html",
